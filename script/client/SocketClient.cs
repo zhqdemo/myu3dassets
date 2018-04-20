@@ -124,7 +124,7 @@ public class SocketClient : MonoBehaviour {
 	/// </summary>
 	/// <param name="obj">Object.</param>
 	private void runAction(JSONObject obj){
-		ActionParser.runAction (obj);
+		//ActionParser.runAction (obj);
 	}
 
 }
